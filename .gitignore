@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.sock
+plugin-data/
+mcp-tokens/
+imports/
+.coverage
+htmlcov/
+.pytest_cache/

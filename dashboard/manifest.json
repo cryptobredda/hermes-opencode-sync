@@ -1,0 +1,1 @@
+{"name":"opencode-sync","label":"OpenCode history sync","version":"1.0.0","description":"Local authenticated owner-side history import","tab":{"hidden":true},"entry":"index.js","api":"api.py"}

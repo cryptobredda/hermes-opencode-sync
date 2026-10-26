@@ -1,0 +1,8 @@
+name: opencode-sync
+version: 1.0.0
+description: Manually import and incrementally refresh local OpenCode history, preserving Hermes edits.
+requires_hermes: ">=0.22.5"
+provides_tools: []
+provides_hooks: []
+provides_middleware: []
+requires_env: []
